@@ -30,11 +30,7 @@
             text: 'Contact',
             page:'/Contact'
           },
-          {
-            id: 3,
-            text: 'Weather',
-            page:'/Weather'
-          },
+      
           
         ]
       }
